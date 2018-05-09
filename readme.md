@@ -1,6 +1,7 @@
 # Laravel 5.6 with JWT
 
 [JWT Document Page](http://jwt-auth.readthedocs.io/en/develop/laravel-installation)
+[Installation description video](https://www.youtube.com/watch?v=l201RSQ7Ti4)
 
 ## DB settings
 DB_CONNECTION=mysql <br>
